@@ -3,7 +3,7 @@ import { BrowserRouter as Router } from 'react-router-dom';
 import Sidebar from './components/Sidebar';
 import AppRoutes from './navigation/AppRoutes'
 import Player from './components/Player';
-
+import AlbumDetail from './screens/AlbumDetail';
 const App = () => {
 
   return (

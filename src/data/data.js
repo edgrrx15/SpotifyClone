@@ -77,9 +77,9 @@ export const albumsData = {
       numberOfSongs: 14,
       duration: "53 min 19 s",
       artist: "Travis Scott",
-      backgroundColor: "#222222" // Color de fondo ajustado manualmente
+      backgroundColor: "#222222" 
     }
-    // Puedes agregar más álbumes de Travis Scott aquí si es necesario
+
   ],
   tylerTheCreator: [
     { 
@@ -90,19 +90,19 @@ export const albumsData = {
       numberOfSongs: 12,
       duration: "39 min 41 s",
       artist: "Tyler, The Creator",
-      backgroundColor: "#121212" // Color de fondo ajustado manualmente
+      backgroundColor: "#121212" 
     },
     { 
       id: 9, 
       title: "Flower Boy", 
       year: 2017, 
-      cover: "https://m.media-amazon.com/images/I/71Ls2qvxPjL._UF1000,1000_QL80_.jpg",
+      cover: "https://images.squarespace-cdn.com/content/v1/597febe6725e2529bad5fc50/1513824324051-7JDWVF1CVMY9O3PTVHWG/Flower+Boy+Album+Art+High+Resolution+Tyler+The+Creator",
       numberOfSongs: 14,
       duration: "46 min 32 s",
       artist: "Tyler, The Creator",
-      backgroundColor: "#222222" // Color de fondo ajustado manualmente
+      backgroundColor: "#222222" 
     }
-    // Puedes agregar más álbumes de Tyler, The Creator aquí si es necesario
+
   ],
   macMiller: [
     { 
@@ -113,7 +113,7 @@ export const albumsData = {
       numberOfSongs: 13,
       duration: "58 min 35 s",
       artist: "Mac Miller",
-      backgroundColor: "#121212" // Color de fondo ajustado manualmente
+      backgroundColor: "#121212" 
     },
     { 
       id: 11, 
@@ -123,9 +123,11 @@ export const albumsData = {
       numberOfSongs: 10,
       duration: "52 min 36 s",
       artist: "Mac Miller",
-      backgroundColor: "#222222" // Color de fondo ajustado manualmente
+      backgroundColor: "#222222" 
     }
-    // Puedes agregar más álbumes de Mac Miller aquí si es necesario
+
+    
+ 
   ]
 };
 
